@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Tasks</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Tasks</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e8cad1555d121300651727c3e282e84b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>eschumm</sys_created_by>
+        <sys_created_on>2018-08-27 13:14:06</sys_created_on>
+        <sys_id>27596cf7db00230000f12fb748961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks</sys_name>
+        <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
+        <sys_update_name>sys_wizard_answer_27596cf7db00230000f12fb748961989</sys_update_name>
+        <sys_updated_by>eschumm</sys_updated_by>
+        <sys_updated_on>2018-08-27 13:14:06</sys_updated_on>
+        <table/>
+        <target_url>x_217703_dci_demo_tasks.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

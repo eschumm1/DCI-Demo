@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Urgent TDRs">b133c17edb08230000f12fb748961955</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>eschumm</sys_created_by>
+        <sys_created_on>2018-08-24 12:33:07</sys_created_on>
+        <sys_id>3933c17edb08230000f12fb748961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b133c17edb08230000f12fb748961955</sys_name>
+        <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
+        <sys_update_name>sys_report_users_groups_3933c17edb08230000f12fb748961955</sys_update_name>
+        <sys_updated_by>eschumm</sys_updated_by>
+        <sys_updated_on>2018-08-24 12:33:07</sys_updated_on>
+        <user_id display_value="Eric Schumm">a719e193dbf3130000f12fb7489619a8</user_id>
+    </sys_report_users_groups>
+</record_update>

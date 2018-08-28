@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_217703_dci_demo_cases" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In-Progress</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>0</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-15 17:11:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>222c67bfdbb3130000f12fb748961936</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 14:06:03</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Complete</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>1</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-15 17:12:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9dbc6fbfdbb3130000f12fb7489619c0</sys_id>
+            <sys_mod_count>8</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 14:07:03</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint>Only to be used if getting additional documentation/clarification from COR/MAC or another division</hint>
+            <inactive>false</inactive>
+            <label>Clarification</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>2</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-15 17:07:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9cb6f7fdbb3130000f12fb7489619fa</sys_id>
+            <sys_mod_count>8</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 14:07:10</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint>Leadership does not want to track to completion if transferred.  We're considering it completed at that point, can we have a sub status of complete for this status option?</hint>
+            <inactive>false</inactive>
+            <label>Transfered</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>3</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-15 17:09:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c0c27bfdbb3130000f12fb7489619bc</sys_id>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 14:07:15</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>x_217703_dci_demo_cases</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-15 17:07:48</sys_created_on>
+            <sys_id>f5cb6f7fdbb3130000f12fb7489619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
+            <sys_update_name>sys_choice_x_217703_dci_demo_cases_status</sys_update_name>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-15 17:07:48</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

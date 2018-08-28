@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_217703_dci_demo_cases" version="2" view="exp_dd3dd1a76db0c230000f12fb748961908">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date_recieved</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>2e1e5a76db0c230000f12fb7489619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>ae1e5a76db0c230000f12fb7489619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>macs</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>221e5a76db0c230000f12fb7489619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>dpao</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>a21e5a76db0c230000f12fb7489619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>261e5a76db0c230000f12fb7489619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>221eda76db0c230000f12fb748961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>a21eda76db0c230000f12fb748961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>261eda76db0c230000f12fb748961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>a61eda76db0c230000f12fb748961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mac_cor_number</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>2a1eda76db0c230000f12fb748961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_tags</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>aa1eda76db0c230000f12fb748961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>2e1eda76db0c230000f12fb748961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_reference_6</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>ae1eda76db0c230000f12fb748961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>221eda76db0c230000f12fb748961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_mod_count</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>a21eda76db0c230000f12fb748961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>urgent</element>
+            <list_id display_value="x_217703_dci_demo_cases" element="NULL" name="x_217703_dci_demo_cases" parent="NULL" relationship="NULL" sys_domain="global" view="de1e5a76db0c230000f12fb7489619ed">a61e5a76db0c230000f12fb7489619f0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_id>261eda76db0c230000f12fb748961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_217703_dci_demo_cases</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-24 19:10:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a61e5a76db0c230000f12fb7489619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_217703_dci_demo_cases</sys_name>
+            <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
+            <sys_update_name>sys_ui_list_x_217703_dci_demo_cases_exp_dd3dd1a76db0c230000f12fb748961908</sys_update_name>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-24 19:10:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Exp_dd3dd1a76db0c230000f12fb748961908" name="exp_dd3dd1a76db0c230000f12fb748961908">de1e5a76db0c230000f12fb7489619ed</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

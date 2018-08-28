@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description/>
+        <display>Group Report Source (Cases)</display>
+        <filter/>
+        <name>Group Report Source</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>eschumm</sys_created_by>
+        <sys_created_on>2018-08-22 11:59:38</sys_created_on>
+        <sys_id>5918e2c2db00230000f12fb74896195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Group Report Source (Cases)</sys_name>
+        <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
+        <sys_update_name>sys_report_source_5918e2c2db00230000f12fb74896195e</sys_update_name>
+        <sys_updated_by>eschumm</sys_updated_by>
+        <sys_updated_on>2018-08-22 11:59:38</sys_updated_on>
+        <table>x_217703_dci_demo_cases</table>
+    </sys_report_source>
+</record_update>

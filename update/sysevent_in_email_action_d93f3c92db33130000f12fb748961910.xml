@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_in_email_action">
+    <sysevent_in_email_action action="INSERT_OR_UPDATE">
+        <action>record_action</action>
+        <active>true</active>
+        <assignment_operator/>
+        <condition_script/>
+        <description>Creates a new record from a recieved email.</description>
+        <event_name>email.read</event_name>
+        <filter_condition/>
+        <from/>
+        <name>Create new Case via Email</name>
+        <order>100</order>
+        <reply_email/>
+        <required_roles/>
+        <script><![CDATA[(function runAction(/*GlideRecord*/ current, /*GlideRecord*/ event, /*EmailWrapper*/ email, /*ScopedEmailLogger*/ logger, /*EmailClassifier*/ classifier) {
+
+	// Implement email action here
+	//current.newRecord();
+	
+	
+
+})(current, event, email, logger, classifier);]]></script>
+        <stop_processing>false</stop_processing>
+        <sys_class_name>sysevent_in_email_action</sys_class_name>
+        <sys_created_by>eschumm</sys_created_by>
+        <sys_created_on>2018-08-10 12:45:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d93f3c92db33130000f12fb748961910</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Create new Case via Email</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
+        <sys_update_name>sysevent_in_email_action_d93f3c92db33130000f12fb748961910</sys_update_name>
+        <sys_updated_by>eschumm</sys_updated_by>
+        <sys_updated_on>2018-08-17 12:31:36</sys_updated_on>
+        <table>x_217703_dci_demo_cases</table>
+        <template>u_reference_6DYNAMICb637bd21ef3221002841f7f775c0fbb6^u_glide_date_time_1=^EQ</template>
+        <type>new</type>
+    </sysevent_in_email_action>
+</record_update>

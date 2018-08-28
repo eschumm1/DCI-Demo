@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="assignment_group" table="x_217703_dci_demo_cases" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>assignment_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>J5</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>0</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:46:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2842d69db80230000f12fb74896191a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 17:47:11</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>assignment_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>J6</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>1</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:46:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2842d69db80230000f12fb74896191b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 17:47:30</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>assignment_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>J8</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>2</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:46:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02842d69db80230000f12fb74896191c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 17:47:52</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>assignment_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>J15</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>3</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:46:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e842d69db80230000f12fb74896191c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 17:50:31</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>assignment_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JE</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>4</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:46:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a842d69db80230000f12fb74896191d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 17:50:51</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>assignment_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JF</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>5</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:51:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73a529a1dbc0230000f12fb748961953</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 18:13:19</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>assignment_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JH</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>6</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:52:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdd569a1dbc0230000f12fb74896196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 17:52:12</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>assignment_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JJ</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>7</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:52:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0be5a161dbc0230000f12fb74896191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 17:52:31</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>assignment_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JK</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>8</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:53:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3406e9a1dbc0230000f12fb748961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 17:53:01</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>assignment_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JL</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>9</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:53:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7616a5a1dbc0230000f12fb7489619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 17:53:23</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>assignment_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JM</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>10</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:53:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc36e9a1dbc0230000f12fb748961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 17:53:43</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>assignment_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JN</label>
+            <language>en</language>
+            <name>x_217703_dci_demo_cases</name>
+            <sequence>11</sequence>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e46a161dbc0230000f12fb748961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 17:54:05</sys_updated_on>
+            <value>12</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <name>x_217703_dci_demo_cases</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-20 17:46:16</sys_created_on>
+            <sys_id>ce842d69db80230000f12fb74896191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>assignment_group</sys_name>
+            <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
+            <sys_update_name>sys_choice_x_217703_dci_demo_cases_assignment_group</sys_update_name>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-20 17:46:16</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

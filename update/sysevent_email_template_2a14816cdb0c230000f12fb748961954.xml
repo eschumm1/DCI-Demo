@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_217703_dci_demo_cases</collection>
+        <email_layout display_value="Demo Layout - Dark">f03ea9717f1312007f005212bdfa919b</email_layout>
+        <message/>
+        <message_html><![CDATA[<p>Submitted by Name: ${u_reference_6.name}</p>
+<p>Number: ${number}<span style="text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; display: inline; white-space: normal; word-break: normal; orphans: 2; float: none; -webkit-text-stroke-width: 0px; background-color: transparent;"><br /></span></p>
+<p>Priority: ${priority}</p>
+<p>Status: ${status}</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>New Case Template</name>
+        <sms_alternate/>
+        <subject>A New Case Has Been Created</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>eschumm</sys_created_by>
+        <sys_created_on>2018-08-17 12:53:01</sys_created_on>
+        <sys_id>2a14816cdb0c230000f12fb748961954</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New Case Template</sys_name>
+        <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
+        <sys_update_name>sysevent_email_template_2a14816cdb0c230000f12fb748961954</sys_update_name>
+        <sys_updated_by>eschumm</sys_updated_by>
+        <sys_updated_on>2018-08-17 13:16:07</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

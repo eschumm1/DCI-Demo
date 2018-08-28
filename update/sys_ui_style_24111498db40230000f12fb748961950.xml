@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>status</element>
+        <name>x_217703_dci_demo_cases</name>
+        <style>Background-color:green;&#13;
+</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>eschumm</sys_created_by>
+        <sys_created_on>2018-08-16 14:29:35</sys_created_on>
+        <sys_id>24111498db40230000f12fb748961950</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_217703_dci_demo_cases</sys_name>
+        <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
+        <sys_update_name>sys_ui_style_24111498db40230000f12fb748961950</sys_update_name>
+        <sys_updated_by>eschumm</sys_updated_by>
+        <sys_updated_on>2018-08-20 14:25:39</sys_updated_on>
+        <value>1</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=24111498db40230000f12fb748961950"/>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Anything</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>eschumm</sys_created_by>
+        <sys_created_on>2018-08-17 18:35:20</sys_created_on>
+        <sys_id>2bf216a0db00630000f12fb74896195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Anything</sys_name>
+        <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
+        <sys_update_name>sys_ui_view_2bf216a0db00630000f12fb74896195f</sys_update_name>
+        <sys_updated_by>eschumm</sys_updated_by>
+        <sys_updated_on>2018-08-17 18:35:20</sys_updated_on>
+        <title>Anything</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

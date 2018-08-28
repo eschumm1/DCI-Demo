@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" extends="task" label="Tasks" max_length="40" name="x_217703_dci_demo_tasks" type="collection"/>
+</database>
