@@ -5,7 +5,6 @@
         <can_delegate>true</can_delegate>
         <description>Admin Supervisor role for the Demo Admin group where ticket/case(s) start</description>
         <elevated_privilege>false</elevated_privilege>
-        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_217703_dci_demo.AdminSupervisor</name>

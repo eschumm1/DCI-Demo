@@ -5,7 +5,6 @@
         <can_delegate>true</can_delegate>
         <description>Human Resources User level for the Human Resources demo group</description>
         <elevated_privilege>false</elevated_privilege>
-        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_217703_dci_demo.HRuser</name>

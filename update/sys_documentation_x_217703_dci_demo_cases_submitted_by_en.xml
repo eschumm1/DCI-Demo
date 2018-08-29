@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="u_reference_6" label="Submitted by" language="en" table="x_217703_dci_demo_cases">
+    <sys_documentation element="submitted_by" label="Submitted by" language="en" table="x_217703_dci_demo_cases">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_reference_6</element>
+            <element>submitted_by</element>
             <help/>
             <hint/>
             <label>Submitted by</label>
@@ -10,17 +10,17 @@
             <name>x_217703_dci_demo_cases</name>
             <plural>Submitted by</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>eschumm</sys_created_by>
-            <sys_created_on>2018-08-13 18:02:48</sys_created_on>
-            <sys_id>c035e513dbf3130000f12fb7489619cd</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-28 15:22:17</sys_created_on>
+            <sys_id>32401ec8db90230000f12fb748961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>Submitted by</sys_name>
             <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
             <sys_policy/>
             <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
-            <sys_update_name>sys_documentation_x_217703_dci_demo_cases_u_reference_6_en</sys_update_name>
-            <sys_updated_by>eschumm</sys_updated_by>
-            <sys_updated_on>2018-08-13 18:03:02</sys_updated_on>
+            <sys_update_name>sys_documentation_x_217703_dci_demo_cases_submitted_by_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-28 15:22:17</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

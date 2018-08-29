@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="sn_openframe_user" name="sn_openframe_user">7506fe2deb2002003e97afcef106fe87</role>
+        <role display_value="">7506fe2deb2002003e97afcef106fe87</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-08-13 19:23:00</sys_created_on>

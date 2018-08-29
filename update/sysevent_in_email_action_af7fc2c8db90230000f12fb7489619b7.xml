@@ -5,40 +5,57 @@
         <active>false</active>
         <assignment_operator/>
         <condition_script/>
-        <description>Creates a new record from a recieved email.</description>
+        <description>Create a new record on a forwarded email.</description>
         <event_name>email.read</event_name>
         <filter_condition/>
         <from/>
-        <name>Create new Case via Email</name>
+        <name>Forward Action</name>
         <order>100</order>
         <reply_email/>
         <required_roles/>
         <script><![CDATA[(function runAction(/*GlideRecord*/ current, /*GlideRecord*/ event, /*EmailWrapper*/ email, /*ScopedEmailLogger*/ logger, /*EmailClassifier*/ classifier) {
-
-	// Implement email action here
-	//current.newRecord();
 	
+	//var bdy = email.body_text;
 	
-
+	//var fromIndex = bdy.indexOf("From:");
+	
+	/*while(body.indexOf("From:", fromIndex) !== -1)
+		fromIndex = body.indexOf("From:", fromIndex);
+	
+	var line = body.indexOf("From:", fromIndex).split(" ");
+	
+	current.short_description = line[1] + " " + line[2];*/
+	//current.short_description = fromIndex;
+	
+	/*for(var i = 0; i < body.length; i++){
+		var line = body[i];
+		
+		
+	}*/
+	
+	current.submitted_by = email.body.from.split("<")[0];
+	current.comments = email.headers;
+	current.insert();
+	
 })(current, event, email, logger, classifier);]]></script>
         <stop_processing>false</stop_processing>
         <sys_class_name>sysevent_in_email_action</sys_class_name>
-        <sys_created_by>eschumm</sys_created_by>
-        <sys_created_on>2018-08-10 12:45:02</sys_created_on>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-28 15:20:31</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>d93f3c92db33130000f12fb748961910</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>Create new Case via Email</sys_name>
+        <sys_id>af7fc2c8db90230000f12fb7489619b7</sys_id>
+        <sys_mod_count>35</sys_mod_count>
+        <sys_name>Forward Action</sys_name>
         <sys_overrides/>
         <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
         <sys_policy/>
         <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
-        <sys_update_name>sysevent_in_email_action_d93f3c92db33130000f12fb748961910</sys_update_name>
+        <sys_update_name>sysevent_in_email_action_af7fc2c8db90230000f12fb7489619b7</sys_update_name>
         <sys_updated_by>eschumm</sys_updated_by>
-        <sys_updated_on>2018-08-29 12:47:04</sys_updated_on>
+        <sys_updated_on>2018-08-29 12:43:34</sys_updated_on>
         <table>x_217703_dci_demo_cases</table>
         <template/>
-        <type>new</type>
+        <type>forward</type>
     </sysevent_in_email_action>
 </record_update>

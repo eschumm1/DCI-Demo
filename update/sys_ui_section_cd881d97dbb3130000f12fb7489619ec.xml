@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>eschumm</sys_created_by>
-            <sys_created_on>2018-08-27 13:41:10</sys_created_on>
-            <sys_id>849f243fdb00230000f12fb7489619ab</sys_id>
+            <sys_created_on>2018-08-28 15:23:54</sys_created_on>
+            <sys_id>a2a0160cdb90230000f12fb748961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Record" display_value="Record" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">cd881d97dbb3130000f12fb7489619ec</sys_ui_section>
             <sys_updated_by>eschumm</sys_updated_by>
-            <sys_updated_on>2018-08-27 13:41:10</sys_updated_on>
+            <sys_updated_on>2018-08-28 15:23:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>mac_cor_number</element>
             <position>1</position>
             <sys_created_by>eschumm</sys_created_by>
-            <sys_created_on>2018-08-27 13:41:10</sys_created_on>
-            <sys_id>089f243fdb00230000f12fb7489619ab</sys_id>
+            <sys_created_on>2018-08-28 15:23:54</sys_created_on>
+            <sys_id>26a0160cdb90230000f12fb748961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Record" display_value="Record" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">cd881d97dbb3130000f12fb7489619ec</sys_ui_section>
             <sys_updated_by>eschumm</sys_updated_by>
-            <sys_updated_on>2018-08-27 13:41:10</sys_updated_on>
+            <sys_updated_on>2018-08-28 15:23:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,111 +33,139 @@
             <element>date_recieved</element>
             <position>2</position>
             <sys_created_by>eschumm</sys_created_by>
-            <sys_created_on>2018-08-27 13:41:10</sys_created_on>
-            <sys_id>889f243fdb00230000f12fb7489619ab</sys_id>
+            <sys_created_on>2018-08-28 15:23:54</sys_created_on>
+            <sys_id>a6a0160cdb90230000f12fb748961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Record" display_value="Record" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">cd881d97dbb3130000f12fb7489619ec</sys_ui_section>
             <sys_updated_by>eschumm</sys_updated_by>
-            <sys_updated_on>2018-08-27 13:41:10</sys_updated_on>
+            <sys_updated_on>2018-08-28 15:23:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>submitted_by</element>
+            <position>3</position>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-28 15:23:54</sys_created_on>
+            <sys_id>2aa0160cdb90230000f12fb748961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record" display_value="Record" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">cd881d97dbb3130000f12fb7489619ec</sys_ui_section>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-28 15:23:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>eschumm</sys_created_by>
-            <sys_created_on>2018-08-27 13:41:10</sys_created_on>
-            <sys_id>0c9f243fdb00230000f12fb7489619ab</sys_id>
+            <sys_created_on>2018-08-28 15:23:54</sys_created_on>
+            <sys_id>aaa0160cdb90230000f12fb748961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Record" display_value="Record" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">cd881d97dbb3130000f12fb7489619ec</sys_ui_section>
             <sys_updated_by>eschumm</sys_updated_by>
-            <sys_updated_on>2018-08-27 13:41:10</sys_updated_on>
+            <sys_updated_on>2018-08-28 15:23:54</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>urgent</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>eschumm</sys_created_by>
-            <sys_created_on>2018-08-27 13:41:10</sys_created_on>
-            <sys_id>8c9f243fdb00230000f12fb7489619ab</sys_id>
+            <sys_created_on>2018-08-28 15:23:54</sys_created_on>
+            <sys_id>2ea0160cdb90230000f12fb748961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Record" display_value="Record" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">cd881d97dbb3130000f12fb7489619ec</sys_ui_section>
             <sys_updated_by>eschumm</sys_updated_by>
-            <sys_updated_on>2018-08-27 13:41:10</sys_updated_on>
+            <sys_updated_on>2018-08-28 15:23:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>status</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>eschumm</sys_created_by>
-            <sys_created_on>2018-08-27 13:41:10</sys_created_on>
-            <sys_id>009f243fdb00230000f12fb7489619ac</sys_id>
+            <sys_created_on>2018-08-28 15:23:54</sys_created_on>
+            <sys_id>aea0160cdb90230000f12fb748961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Record" display_value="Record" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">cd881d97dbb3130000f12fb7489619ec</sys_ui_section>
             <sys_updated_by>eschumm</sys_updated_by>
-            <sys_updated_on>2018-08-27 13:41:10</sys_updated_on>
+            <sys_updated_on>2018-08-28 15:23:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>macs</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>eschumm</sys_created_by>
-            <sys_created_on>2018-08-27 13:41:10</sys_created_on>
-            <sys_id>809f243fdb00230000f12fb7489619ac</sys_id>
+            <sys_created_on>2018-08-28 15:23:54</sys_created_on>
+            <sys_id>22a0160cdb90230000f12fb748961999</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Record" display_value="Record" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">cd881d97dbb3130000f12fb7489619ec</sys_ui_section>
             <sys_updated_by>eschumm</sys_updated_by>
-            <sys_updated_on>2018-08-27 13:41:10</sys_updated_on>
+            <sys_updated_on>2018-08-28 15:23:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>dpao</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>eschumm</sys_created_by>
-            <sys_created_on>2018-08-27 13:41:10</sys_created_on>
-            <sys_id>049f243fdb00230000f12fb7489619ac</sys_id>
+            <sys_created_on>2018-08-28 15:23:54</sys_created_on>
+            <sys_id>a2a0160cdb90230000f12fb748961999</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Record" display_value="Record" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">cd881d97dbb3130000f12fb7489619ec</sys_ui_section>
             <sys_updated_by>eschumm</sys_updated_by>
-            <sys_updated_on>2018-08-27 13:41:10</sys_updated_on>
+            <sys_updated_on>2018-08-28 15:23:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>eschumm</sys_created_by>
-            <sys_created_on>2018-08-27 13:41:10</sys_created_on>
-            <sys_id>849f243fdb00230000f12fb7489619ac</sys_id>
+            <sys_created_on>2018-08-28 15:23:54</sys_created_on>
+            <sys_id>26a0160cdb90230000f12fb748961999</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Record" display_value="Record" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">cd881d97dbb3130000f12fb7489619ec</sys_ui_section>
             <sys_updated_by>eschumm</sys_updated_by>
-            <sys_updated_on>2018-08-27 13:41:10</sys_updated_on>
+            <sys_updated_on>2018-08-28 15:23:54</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>comments</element>
-            <position>9</position>
+            <element>short_description</element>
+            <position>10</position>
             <sys_created_by>eschumm</sys_created_by>
-            <sys_created_on>2018-08-27 13:41:10</sys_created_on>
-            <sys_id>089f243fdb00230000f12fb7489619ac</sys_id>
+            <sys_created_on>2018-08-28 15:23:54</sys_created_on>
+            <sys_id>a6a0160cdb90230000f12fb748961999</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Record" display_value="Record" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">cd881d97dbb3130000f12fb7489619ec</sys_ui_section>
             <sys_updated_by>eschumm</sys_updated_by>
-            <sys_updated_on>2018-08-27 13:41:10</sys_updated_on>
+            <sys_updated_on>2018-08-28 15:23:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>11</position>
+            <sys_created_by>eschumm</sys_created_by>
+            <sys_created_on>2018-08-28 15:23:54</sys_created_on>
+            <sys_id>2aa0160cdb90230000f12fb748961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record" display_value="Record" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">cd881d97dbb3130000f12fb7489619ec</sys_ui_section>
+            <sys_updated_by>eschumm</sys_updated_by>
+            <sys_updated_on>2018-08-28 15:23:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

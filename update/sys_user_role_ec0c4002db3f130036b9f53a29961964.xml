@@ -5,7 +5,6 @@
         <can_delegate>true</can_delegate>
         <description>Creating a Demo user that will not have admin or user level access; a person/individual non-company affiliated</description>
         <elevated_privilege>false</elevated_privilege>
-        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_217703_dci_demo.DemoUserGuest</name>

@@ -5,7 +5,6 @@
         <can_delegate>true</can_delegate>
         <description>Demo admin user level; this level is where the ticket/case begins</description>
         <elevated_privilege>false</elevated_privilege>
-        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_217703_dci_demo.AdminUser</name>

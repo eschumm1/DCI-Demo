@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="sn_publications.approver" name="sn_publications.approver">e1d46c25c30112004bd67bfaa2d3ae50</role>
+        <role display_value="">e1d46c25c30112004bd67bfaa2d3ae50</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-08-13 19:28:46</sys_created_on>

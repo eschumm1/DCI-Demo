@@ -29,6 +29,20 @@
             <sys_updated_by>eschumm</sys_updated_by>
             <sys_updated_on>2018-08-27 12:42:29</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2018-08-28 14:13:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f590ca08db10230000f12fb7489619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_217703_dci_demo_cases" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">f9081997dbb3130000f12fb748961994</sys_ui_form>
+            <sys_ui_section caption="Attachments" display_value="Attachments" name="x_217703_dci_demo_cases" sys_domain="global" view="Default view">35089597dbb3130000f12fb748961964</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2018-08-28 14:13:40</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_217703_dci_demo_cases</name>
             <roles/>
