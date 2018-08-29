@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="sys_portal_page" unload_date="2018-08-29 12:48:01">
+<record_update node_type="sys_portal_page" unload_date="2018-08-29 15:25:28">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout display_value="layout_overview">1a656051d7030200eaae68150e610399</layout>
         <order/>
@@ -39,7 +39,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>020b8db2db48230000f12fb7489619e3</sys_id>
@@ -50,7 +50,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>060b8db2db48230000f12fb7489619e3</sys_id>
@@ -61,7 +61,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>0a0b8db2db48230000f12fb7489619e3</sys_id>
@@ -72,7 +72,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>0e0b8db2db48230000f12fb7489619e2</sys_id>
@@ -83,7 +83,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>0e0b8db2db48230000f12fb7489619e3</sys_id>
@@ -94,7 +94,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>820b8db2db48230000f12fb7489619e4</sys_id>
@@ -105,7 +105,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">060b8db2db48230000f12fb7489619e2</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>860b8db2db48230000f12fb7489619e2</sys_id>
@@ -130,7 +130,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>420b8db2db48230000f12fb7489619e0</sys_id>
@@ -141,7 +141,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>c20b8db2db48230000f12fb7489619de</sys_id>
@@ -152,7 +152,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>c20b8db2db48230000f12fb7489619df</sys_id>
@@ -163,7 +163,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>c20b8db2db48230000f12fb7489619e1</sys_id>
@@ -174,7 +174,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_size</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>c60b8db2db48230000f12fb7489619de</sys_id>
@@ -185,7 +185,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>c60b8db2db48230000f12fb7489619df</sys_id>
@@ -196,7 +196,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>c60b8db2db48230000f12fb7489619e0</sys_id>
@@ -207,7 +207,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>c60b8db2db48230000f12fb7489619e1</sys_id>
@@ -218,7 +218,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>ca0b8db2db48230000f12fb7489619dd</sys_id>
@@ -229,7 +229,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>ca0b8db2db48230000f12fb7489619de</sys_id>
@@ -240,7 +240,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>ca0b8db2db48230000f12fb7489619df</sys_id>
@@ -251,7 +251,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>ca0b8db2db48230000f12fb7489619e0</sys_id>
@@ -262,7 +262,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>widget_height</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>ca0b8db2db48230000f12fb7489619e1</sys_id>
@@ -273,7 +273,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>ce0b8db2db48230000f12fb7489619dd</sys_id>
@@ -284,7 +284,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>ce0b8db2db48230000f12fb7489619de</sys_id>
@@ -295,7 +295,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_publish</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>ce0b8db2db48230000f12fb7489619e0</sys_id>
@@ -306,7 +306,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">4a0b8db2db48230000f12fb7489619dd</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>ce0b8db2db48230000f12fb7489619e1</sys_id>
@@ -331,7 +331,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>020b8db2db48230000f12fb7489619d9</sys_id>
@@ -342,7 +342,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>020b8db2db48230000f12fb7489619da</sys_id>
@@ -353,7 +353,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>020b8db2db48230000f12fb7489619db</sys_id>
@@ -364,7 +364,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>020b8db2db48230000f12fb7489619dc</sys_id>
@@ -375,7 +375,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>020b8db2db48230000f12fb7489619dd</sys_id>
@@ -386,7 +386,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>060b8db2db48230000f12fb7489619d9</sys_id>
@@ -397,7 +397,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>060b8db2db48230000f12fb7489619da</sys_id>
@@ -408,7 +408,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>060b8db2db48230000f12fb7489619dc</sys_id>
@@ -419,7 +419,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>060b8db2db48230000f12fb7489619dd</sys_id>
@@ -430,7 +430,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>0a0b8db2db48230000f12fb7489619d9</sys_id>
@@ -441,7 +441,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>0a0b8db2db48230000f12fb7489619da</sys_id>
@@ -452,7 +452,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>0a0b8db2db48230000f12fb7489619dc</sys_id>
@@ -463,7 +463,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_size</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>0e0b8db2db48230000f12fb7489619d9</sys_id>
@@ -474,7 +474,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>0e0b8db2db48230000f12fb7489619da</sys_id>
@@ -485,7 +485,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>0e0b8db2db48230000f12fb7489619db</sys_id>
@@ -496,7 +496,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>widget_height</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>0e0b8db2db48230000f12fb7489619dc</sys_id>
@@ -507,7 +507,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 08/24/18 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
+                        <portal_section display_value="Created 08/24/2018 09:07:16 AM">8e0b8db2db48230000f12fb7489619d8</portal_section>
                         <sys_created_by>eschumm</sys_created_by>
                         <sys_created_on>2018-08-24 13:07:16</sys_created_on>
                         <sys_id>860b8db2db48230000f12fb7489619db</sys_id>
