@@ -18,7 +18,7 @@
         <column_label>Urgent?</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>False</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -54,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>eschumm</sys_created_by>
         <sys_created_on>2018-08-24 12:17:52</sys_created_on>
-        <sys_id>25834750db90230000f12fb74896196f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>72897b18db10230000f12fb74896190d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Urgent?</sys_name>
         <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
         <sys_policy/>
         <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
         <sys_update_name>sys_dictionary_x_217703_dci_demo_cases_urgent</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-08-29 13:44:38</sys_updated_on>
+        <sys_updated_by>eschumm</sys_updated_by>
+        <sys_updated_on>2018-08-29 18:11:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

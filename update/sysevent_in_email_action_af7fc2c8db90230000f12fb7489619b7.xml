@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sysevent_in_email_action">
     <sysevent_in_email_action action="INSERT_OR_UPDATE">
         <action>record_action</action>
-        <active>false</active>
+        <active>true</active>
         <assignment_operator/>
         <condition_script/>
         <description>Create a new record on a forwarded email.</description>
@@ -17,13 +17,17 @@
 	var emailBody = email.body_text;     //Get email body as text
 	var originalSenderIndex = emailBody.indexOf("From:");     //Get the index of the first forward sender
 	
-	while(emailBody.indexOf("From:", originalSenderIndex + 1) != -1){     //Continue to itterate thorugh the senders until the original is found
+	while(emailBody.indexOf("From:", originalSenderIndex + 1) != -1)     //Continue to itterate thorugh the senders until the original is found
 		originalSenderIndex = emailBody.indexOf("From:", originalSenderIndex + 1);     //Update the sender index
-	}
 	
 	var originalSenderLine = emailBody.substring(originalSenderIndex, emailBody.indexOf("\n", originalSenderIndex)).split(" ");     //Get the full text line that the original sender is on
 	current.comments = email.body_text;     //Enter the email body into the comments field
 	current.submitted_by.setDisplayValue(originalSenderLine[1] + " " + originalSenderLine[2].split("<"));     //Set the submitted by field
+	
+	var subject = email.subject.split(" ");
+	var tdrIndex = subject.indexOf("TDR");
+	current.mac_cor_number = subject[tdrIndex] + " " + subject[tdrIndex + 1];
+	
 	current.insert();
 	
 })(current, event, email, logger, classifier);]]></script>
@@ -34,7 +38,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>af7fc2c8db90230000f12fb7489619b7</sys_id>
-        <sys_mod_count>53</sys_mod_count>
+        <sys_mod_count>59</sys_mod_count>
         <sys_name>Forward Action</sys_name>
         <sys_overrides/>
         <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
@@ -42,9 +46,9 @@
         <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
         <sys_update_name>sysevent_in_email_action_af7fc2c8db90230000f12fb7489619b7</sys_update_name>
         <sys_updated_by>eschumm</sys_updated_by>
-        <sys_updated_on>2018-08-29 15:06:29</sys_updated_on>
+        <sys_updated_on>2018-08-29 19:10:37</sys_updated_on>
         <table>x_217703_dci_demo_cases</table>
-        <template/>
+        <template>short_descriptionDYNAMICb637bd21ef3221002841f7f775c0fbb6^EQ</template>
         <type>forward</type>
     </sysevent_in_email_action>
 </record_update>

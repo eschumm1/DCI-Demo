@@ -6,7 +6,7 @@
         <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Date Recieved" max_length="40" name="date_recieved" read_only="true" type="glide_date_time" use_dynamic_default="true"/>
         <element label="DPAO" max_length="4000" name="dpao" reference="sys_user" reference_qual="sys_domain.name=DPAO^EQ" reference_qual_condition="sys_domain.name=DPAO^EQ" type="glide_list"/>
         <element label="MACs" mandatory="true" max_length="4000" name="macs" reference="sys_user_group" reference_qual="nameSTARTSWITHJ^EQ" reference_qual_condition="nameSTARTSWITHJ^EQ" type="glide_list"/>
-        <element label="MAC/COR Number" mandatory="true" max_length="10" name="mac_cor_number" type="string"/>
+        <element label="MAC/COR Number" mandatory="true" max_length="15" name="mac_cor_number" type="string"/>
         <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="TDR No." max_length="8" name="number" read_only="true" type="string" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="short_description" type="string"/>
         <element choice="3" choice_field="state" default="1" label="Status" max_length="40" name="status" type="choice">
@@ -18,7 +18,7 @@
             </choice>
         </element>
         <element label="Submitted by" max_length="32" name="submitted_by" reference="sys_user" type="reference"/>
-        <element label="Urgent?" max_length="40" name="urgent" type="boolean"/>
+        <element default="False" label="Urgent?" max_length="40" name="urgent" type="boolean"/>
         <index name="index">
             <element name="submitted_by"/>
         </index>
