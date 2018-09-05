@@ -4,20 +4,20 @@
         <alt/>
         <element>priority</element>
         <name>x_217703_dci_demo_cases</name>
-        <style>Background-color:red;&#13;
+        <style>Background-color:red;
 Color:White;</style>
         <sys_class_name>sys_ui_style</sys_class_name>
         <sys_created_by>eschumm</sys_created_by>
         <sys_created_on>2018-08-15 16:47:09</sys_created_on>
         <sys_id>eed62fbbdbb3130000f12fb74896192c</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>x_217703_dci_demo_cases</sys_name>
         <sys_package display_value="DCI-demo" source="x_217703_dci_demo">70dbca08dbb3130000f12fb748961993</sys_package>
         <sys_policy/>
         <sys_scope display_value="DCI-demo">70dbca08dbb3130000f12fb748961993</sys_scope>
         <sys_update_name>sys_ui_style_eed62fbbdbb3130000f12fb74896192c</sys_update_name>
         <sys_updated_by>eschumm</sys_updated_by>
-        <sys_updated_on>2018-08-20 14:21:44</sys_updated_on>
+        <sys_updated_on>2018-08-31 14:45:26</sys_updated_on>
         <value>2</value>
     </sys_ui_style>
     <sys_translated_text action="delete_multiple" query="documentkey=eed62fbbdbb3130000f12fb74896192c"/>
